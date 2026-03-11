@@ -9,7 +9,7 @@ npm install
 2. **Add your API keys to `.env`**
 ```
 PORT=3000
-OPENAI_API_KEY=sk-...
+GOOGLE_GEMINI_API_KEY=sk-...
 AI_MODEL=gpt-4o-mini
 ```
 
