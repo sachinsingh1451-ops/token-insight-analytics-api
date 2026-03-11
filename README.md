@@ -19,3 +19,17 @@ npm start
 ```
 
 Server runs on `http://localhost:3000`
+
+## Running Tests
+
+### Run Unit Tests
+```bash
+npm test
+```
+This will run all test files using Jest and display the test results.
+
+### Run Tests with Coverage Report
+```bash
+npm run test:coverage
+```
+This will run all tests and generate a coverage report showing code coverage percentages for statements, branches, functions, and lines.
